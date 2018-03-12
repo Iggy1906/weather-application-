@@ -1,0 +1,24 @@
+html {
+  height: 100%;
+}
+
+body {
+  background-repeat: no-repeat; 
+  background-image: url("https://s19.postimg.org/5us7anh37/beautifulskys.jpg");   
+    background-size: cover;
+  background-position: 50%; 
+  min-height:100%;
+}
+
+ul {
+  margin-top: 150px;
+}
+
+li { 
+  display: inline;
+  margin: 0px 20px 0px 0px;
+}
+
+button {
+  background-color: hsla(216, 100%, 92%, 0.24);
+}
